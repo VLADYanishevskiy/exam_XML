@@ -1,0 +1,72 @@
+OBJECT{
+	margin:15px;
+	font-weight: 600;
+	font-size: 16px;
+	display: block;
+	border:2px solid blue;
+	padding: 5px;
+	height: 20px;
+}
+TITLE{
+	background-color: orange;
+	color: white;
+	width: 100px;
+	display: block;
+	float: left;
+	text-align: center;
+	margin-left: 5px;
+}
+ADDRESS{
+	width: 200px;
+	display: block;
+	margin-left: 5px;
+	background-color: blue;
+	float :left;
+	text-align: center;
+	color: white;
+}
+TYPE{
+	width: 100px;
+	display: block;
+	margin-left: 5px;
+	background-color: blue;
+	float :left;
+	color: white;
+	text-align: center;
+}
+DATE{
+	width:100px;
+	display: block;
+	margin-left:5px;
+	background-color: blue;
+	color:white;
+	float:left;
+	text-align: center;
+}
+NUMBER_OF_FLOORS{
+	width:100px;
+	display: block;
+	margin-left:5px;
+	background-color: blue;
+	color:white;
+	float:left;
+	text-align: center;
+}
+
+NUMBER_OF_ROOMS{
+	width:100px;
+	display: block;
+	margin-left:5px;
+	background-color: blue;
+	color:white;
+	float:left;
+	text-align: center;
+}
+PRICE{
+	width: 100px;
+	background-color: blue;
+	margin-left: 5px;
+	display: block;
+	color: white;
+	float:left;
+}

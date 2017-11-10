@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CATALOG SYSTEM "main_dtd.dtd">
+<CATALOG>
+  <OBJECT>
+    <TITLE>Title</TITLE>
+    <ADDRESS>STREET</ADDRESS>
+    <TYPE type-size="1">TYPE</TYPE>
+    <DATE>2001.01.05</DATE>
+    <NUMBER_OF_FLOORS>FLOORS</NUMBER_OF_FLOORS>
+    <NUMBER_OF_ROOMS>ROOMS</NUMBER_OF_ROOMS>
+    <PRICE>PRICE</PRICE>
+  </OBJECT>
+
+  <OBJECT>
+    <TITLE>Alaska</TITLE>
+    <ADDRESS>Walnut Street</ADDRESS>
+    <TYPE type-size="1">Apartament</TYPE>
+    <DATE>2001.01.05</DATE>
+    <NUMBER_OF_FLOORS>3</NUMBER_OF_FLOORS>
+    <NUMBER_OF_ROOMS>14</NUMBER_OF_ROOMS>
+    <PRICE>105000</PRICE>
+  </OBJECT>
+
+  <OBJECT>
+    <TITLE>Washington</TITLE>
+    <ADDRESS>Walnut Street</ADDRESS>
+    <TYPE type-size="2">House</TYPE>
+    <DATE>2008.10.12</DATE>
+    <NUMBER_OF_FLOORS>1</NUMBER_OF_FLOORS>
+    <NUMBER_OF_ROOMS> 4</NUMBER_OF_ROOMS>
+    <PRICE>30000</PRICE>
+  </OBJECT>
+
+  <OBJECT>
+    <TITLE>Minnesota</TITLE>
+    <ADDRESS>Oak Street</ADDRESS>
+    <TYPE type-size="3">Plot</TYPE>
+    <DATE>2016.08.01</DATE>
+    <NUMBER_OF_FLOORS>0</NUMBER_OF_FLOORS>
+    <NUMBER_OF_ROOMS>0</NUMBER_OF_ROOMS>
+    <PRICE>40000</PRICE>
+  </OBJECT>
+
+  <OBJECT>
+    <TITLE>Nebraska</TITLE>
+    <ADDRESS>Elm Street </ADDRESS>
+    <TYPE type-size="2">House</TYPE>
+    <DATE>2010.04.02</DATE>
+    <NUMBER_OF_FLOORS>2</NUMBER_OF_FLOORS>
+    <NUMBER_OF_ROOMS>18</NUMBER_OF_ROOMS>
+    <PRICE>83000</PRICE>
+  </OBJECT>
+
+  <OBJECT>
+    <TITLE>Hampshire</TITLE>
+    <ADDRESS>Broad Street </ADDRESS>
+    <TYPE type-size="1">Apartament</TYPE>
+    <DATE>2007.10.01</DATE>
+    <NUMBER_OF_FLOORS>1</NUMBER_OF_FLOORS>
+    <NUMBER_OF_ROOMS>6</NUMBER_OF_ROOMS>
+    <PRICE>48000</PRICE>
+  </OBJECT>
+
+
+</CATALOG>
